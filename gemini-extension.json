@@ -1,0 +1,12 @@
+{
+  "name": "hail",
+  "version": "1.0.4",
+  "description": "Assess an engineering team's AI fluency, adoption, and system health, then place them on a Heroes of AI League (HAIL) hero archetype.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "hail": {
+      "url": "https://heroleague.ai/mcp",
+      "type": "http"
+    }
+  }
+}

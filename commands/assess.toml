@@ -1,0 +1,7 @@
+prompt = """
+Run a HAIL assessment for this engineering team.
+
+{{args}}
+
+Follow the hail skill. This host does not render a wizard. Build a team name as Team DDMMYYYY- {intent} without asking, call show_assessment, then ask the core 8 in text from the questions that tool returns. Do not invent an archetype. Do not take payment.
+"""
